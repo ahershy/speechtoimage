@@ -17,3 +17,5 @@ The dalle.py file is used to connect the streamlit web application to the Google
 Establishes connection to backend server and verifies it's valid
 Initiates call to server by sending text input for processing 
 Retrieves image json data, and decodes data using base64.b64decode()
+
+This project is heavily influenced by https://www.youtube.com/watch?v=fRa2rmDvOCY&t=412s&ab_channel=AssemblyAI
