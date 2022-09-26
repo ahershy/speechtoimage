@@ -1,4 +1,4 @@
-# speechtoimage
+# speech to image
 
 # Background knowledge needed:
 DALL-E was created by the organization OpenAI. This introduced the world to AI generated images and took off in popularity about a year ago. 
